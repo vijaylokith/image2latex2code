@@ -1,0 +1,39 @@
+{
+    "Code Lengths": {
+        "Minimum Code Length": 1,
+        "Maximum Code Length": 150,
+        "Mean Code Length": 56.84659045380486,
+        "Median Code Length": 52,
+        "Standard Deviation Code Length": 27.154712531686442
+    },
+
+    "Vocab": {
+        "Vocab Size": 540
+    },
+
+    "Images": {
+        "Mode": "train",
+        "Num Images": 75275,
+        "Height": {
+            "Min": 32,
+            "Max": 160,
+            "Mean": 52.868548654931914,
+            "Median": 64,
+            "Std": 17.02468338686478
+        },
+        "Width": {
+            "Min": 128,
+            "Max": 480,
+            "Mean": 281.2475855197609,
+            "Median": 256,
+            "Std": 108.42596665812039
+        },
+        "Aspect Ratio": {
+            "Min": 0.06666666666666667,
+            "Max": 0.5,
+            "Mean": 0.2143459537252297,
+            "Median": 0.2,
+            "Std": 0.10330606541721442
+        }
+    }
+}

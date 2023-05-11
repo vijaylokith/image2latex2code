@@ -1,0 +1,89 @@
+{
+    "model_path": "Models/FormulaGAN/EncDec_Simple_Best.h5",
+    "dataset_path": "Data/Datasets/IM2LATEX_100K/IM2LATEX_100K/",
+    "tokenizer_path": "Library/GAN_TeacherForcing/Models/tokenizer_full.tf/",
+    "LOAD_MODEL": false,
+    "DATASET_LOAD_COUNT": 1000,
+    "VAL_DATASET_LOAD_COUNT": 500,
+    "image_size": [54, 256, 1],
+    "MAX_SEQUENCE_LENGTH": 100,
+    "epochs": 1,
+    "batch_size": 1,
+
+    "encoder_params": {
+        "type": "attention",
+        
+        "common": {
+            "conv_n_filters": [16, 32, 64, 128],
+            "conv_activation": "tanh",
+            "conv_dropout": 0.2,
+            "dense_n_units": [512],
+            "dense_activation": "tanh",
+            "dense_dropout": 0.1, 
+            "output_activation": "tanh",
+            "output_shape": 1024
+        },
+        "simple": {},
+        "attention": {}
+    },
+
+    "decoder_params": {
+        "type": "attention",
+        
+        "common": {
+            "decoder_input_embedding_dim": 512,
+            "decoder_input_type": "GRU", 
+            "decoder_input_recurrent_units": 512
+        },
+        "simple": {
+            "decoder_input_dense_units": [512, 512],
+            "decoder_input_dense_activation": "tanh",
+            "decoder_input_dense_dropout": 0.0,
+            "decoder_output_dense_units": [1024, 512],
+            "decoder_output_dense_activation": "tanh",
+            "decoder_output_dense_dropout": 0.0
+        },
+        "recurrent": {
+            "decoder_input_recurrent_dense_units": 1024,
+            "decoder_input_recurrent_dense_activation": "tanh",
+            "decoder_output_type": "GRU", 
+            "decoder_output_recurrent_units": [1024],
+            "decoder_output_recurrent_dense_units": [],
+            "decoder_output_recurrent_dense_activation": null,
+            "decoder_output_dense_units": [1024, 512],
+            "decoder_output_dense_activation": "tanh",
+            "decoder_output_dense_dropout": 0.0
+        },
+        "attention": {
+            "decoder_input_recurrent_dense_units": 1024,
+            "decoder_input_recurrent_dense_activation": "tanh",
+            "decoder_output_type": "GRU", 
+            "decoder_output_recurrent_units": [1024],
+            "decoder_output_recurrent_dense_units": [],
+            "decoder_output_recurrent_dense_activation": null,
+            "decoder_output_dense_units": [1024, 512],
+            "decoder_output_dense_activation": "tanh",
+            "decoder_output_dense_dropout": 0.0
+        }
+    },
+
+    "compile_params": {
+        "learning_rate": 0.0001
+    },
+
+    "token_rep_params": {
+        "type": "dense", 
+        
+        "token_dense_units": [512, 512],
+        "token_dense_activation": "tanh",
+        "token_dense_dropout": 0.1
+    },
+    "discriminator_params": {
+        "dense_n_units": [1024, 512, 128, 64, 16],
+        "dense_activation": "tanh",
+        "dense_dropout": 0.1
+    },
+    "discriminator_compile_params": {
+        "learning_rate": 0.0001
+    }
+}

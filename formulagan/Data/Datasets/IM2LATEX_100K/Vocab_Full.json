@@ -1,0 +1,2250 @@
+{
+    "\\widetilde": {
+        "count": 1697,
+        "reduction": "\\widetilde"
+    },
+    "\\gamma": {
+        "count": 11409,
+        "reduction": "\\gamma"
+    },
+    "_": {
+        "count": 292622,
+        "reduction": "_"
+    },
+    "{": {
+        "count": 904746,
+        "reduction": "{"
+    },
+    "\\mathrm": {
+        "count": 16278,
+        "reduction": "\\mathrm"
+    },
+    "h": {
+        "count": 11196,
+        "reduction": "h"
+    },
+    "o": {
+        "count": 9540,
+        "reduction": "o"
+    },
+    "p": {
+        "count": 27277,
+        "reduction": "p"
+    },
+    "f": {
+        "count": 15303,
+        "reduction": "f"
+    },
+    "}": {
+        "count": 904750,
+        "reduction": "}"
+    },
+    "\\simeq": {
+        "count": 688,
+        "reduction": "\\simeq"
+    },
+    "\\sum": {
+        "count": 10531,
+        "reduction": "\\sum"
+    },
+    "n": {
+        "count": 44801,
+        "reduction": "n"
+    },
+    ">": {
+        "count": 3161,
+        "reduction": ">"
+    },
+    "0": {
+        "count": 55697,
+        "reduction": "0"
+    },
+    "G": {
+        "count": 9186,
+        "reduction": "G"
+    },
+    "\\frac": {
+        "count": 78832,
+        "reduction": "\\frac"
+    },
+    "(": {
+        "count": 144849,
+        "reduction": "("
+    },
+    "-": {
+        "count": 106515,
+        "reduction": "-"
+    },
+    "a": {
+        "count": 42048,
+        "reduction": "a"
+    },
+    ")": {
+        "count": 144656,
+        "reduction": ")"
+    },
+    "^": {
+        "count": 250318,
+        "reduction": "^"
+    },
+    "2": {
+        "count": 153649,
+        "reduction": "2"
+    },
+    "1": {
+        "count": 114932,
+        "reduction": "1"
+    },
+    "\\cal": {
+        "count": 16166,
+        "reduction": "\\cal"
+    },
+    "L": {
+        "count": 13495,
+        "reduction": "L"
+    },
+    "g": {
+        "count": 21763,
+        "reduction": "g"
+    },
+    "i": {
+        "count": 64290,
+        "reduction": "i"
+    },
+    "j": {
+        "count": 23385,
+        "reduction": "j"
+    },
+    "=": {
+        "count": 114787,
+        "reduction": "="
+    },
+    ",": {
+        "count": 96937,
+        "reduction": ","
+    },
+    "\\": {
+        "count": 19606,
+        "reduction": "\\"
+    },
+    "H": {
+        "count": 10572,
+        "reduction": "H"
+    },
+    "k": {
+        "count": 30757,
+        "reduction": "k"
+    },
+    "S": {
+        "count": 14325,
+        "reduction": "S"
+    },
+    "s": {
+        "count": 23111,
+        "reduction": "s"
+    },
+    "t": {
+        "count": 26102,
+        "reduction": "t"
+    },
+    "\\pi": {
+        "count": 18968,
+        "reduction": "\\pi"
+    },
+    "\\sqrt": {
+        "count": 10662,
+        "reduction": "\\sqrt"
+    },
+    "N": {
+        "count": 15067,
+        "reduction": "N"
+    },
+    "5": {
+        "count": 6312,
+        "reduction": "5"
+    },
+    "3": {
+        "count": 23951,
+        "reduction": "3"
+    },
+    "\\left(": {
+        "count": 22373,
+        "reduction": "\\left ("
+    },
+    "+": {
+        "count": 78379,
+        "reduction": "+"
+    },
+    "\\bar": {
+        "count": 13922,
+        "reduction": "\\bar"
+    },
+    "\\right)": {
+        "count": 22372,
+        "reduction": "\\right )"
+    },
+    "\\hat": {
+        "count": 10876,
+        "reduction": "\\hat"
+    },
+    "\\sp": {
+        "count": 225,
+        "reduction": "\\sp"
+    },
+    "\\dagger": {
+        "count": 3149,
+        "reduction": "\\dagger"
+    },
+    "\\,": {
+        "count": 42833,
+        "reduction": "\\,"
+    },
+    ".": {
+        "count": 43375,
+        "reduction": "."
+    },
+    "*": {
+        "count": 5529,
+        "reduction": "*"
+    },
+    "d": {
+        "count": 42327,
+        "reduction": "d"
+    },
+    "\\kappa": {
+        "count": 4511,
+        "reduction": "\\kappa"
+    },
+    "\\phi": {
+        "count": 17732,
+        "reduction": "\\phi"
+    },
+    "J": {
+        "count": 7909,
+        "reduction": "J"
+    },
+    "B": {
+        "count": 12798,
+        "reduction": "B"
+    },
+    "\\prime": {
+        "count": 20035,
+        "reduction": "\\prime"
+    },
+    "A": {
+        "count": 25291,
+        "reduction": "A"
+    },
+    "r": {
+        "count": 28214,
+        "reduction": "r"
+    },
+    "\\lambda": {
+        "count": 14964,
+        "reduction": "\\lambda"
+    },
+    "\\eta": {
+        "count": 7743,
+        "reduction": "\\eta"
+    },
+    "\\partial": {
+        "count": 26431,
+        "reduction": "\\partial"
+    },
+    "\\mu": {
+        "count": 38916,
+        "reduction": "\\mu"
+    },
+    "F": {
+        "count": 12490,
+        "reduction": "F"
+    },
+    "\\nu": {
+        "count": 19887,
+        "reduction": "\\nu"
+    },
+    "e": {
+        "count": 31260,
+        "reduction": "e"
+    },
+    "x": {
+        "count": 48870,
+        "reduction": "x"
+    },
+    "V": {
+        "count": 9077,
+        "reduction": "V"
+    },
+    "\\tilde": {
+        "count": 10238,
+        "reduction": "\\tilde"
+    },
+    "m": {
+        "count": 29537,
+        "reduction": "m"
+    },
+    "6": {
+        "count": 5367,
+        "reduction": "6"
+    },
+    "\\left\\{": {
+        "count": 2301,
+        "reduction": "\\left \\{"
+    },
+    "b": {
+        "count": 18462,
+        "reduction": "b"
+    },
+    "c": {
+        "count": 28014,
+        "reduction": "c"
+    },
+    "\\right\\}": {
+        "count": 1613,
+        "reduction": "\\right \\}"
+    },
+    "\\delta": {
+        "count": 15365,
+        "reduction": "\\delta"
+    },
+    "~": {
+        "count": 25239,
+        "reduction": "~"
+    },
+    "\\quad": {
+        "count": 7391,
+        "reduction": "\\quad"
+    },
+    "\\!": {
+        "count": 3599,
+        "reduction": "\\!"
+    },
+    ":": {
+        "count": 2595,
+        "reduction": ":"
+    },
+    "\\rho": {
+        "count": 10181,
+        "reduction": "\\rho"
+    },
+    "q": {
+        "count": 15129,
+        "reduction": "q"
+    },
+    "P": {
+        "count": 9337,
+        "reduction": "P"
+    },
+    "\\alpha": {
+        "count": 25782,
+        "reduction": "\\alpha"
+    },
+    "\\theta": {
+        "count": 11969,
+        "reduction": "\\theta"
+    },
+    "\\Phi": {
+        "count": 7519,
+        "reduction": "\\Phi"
+    },
+    "w": {
+        "count": 5025,
+        "reduction": "w"
+    },
+    "\\bigtriangleup": {
+        "count": 59,
+        "reduction": "\\bigtriangleup"
+    },
+    "D": {
+        "count": 13653,
+        "reduction": "D"
+    },
+    "z": {
+        "count": 18405,
+        "reduction": "z"
+    },
+    "\\left[": {
+        "count": 6215,
+        "reduction": "\\left ["
+    },
+    "u": {
+        "count": 10393,
+        "reduction": "u"
+    },
+    "\\right]": {
+        "count": 6224,
+        "reduction": "\\right ]"
+    },
+    "l": {
+        "count": 23108,
+        "reduction": "l"
+    },
+    "8": {
+        "count": 4392,
+        "reduction": "8"
+    },
+    "T": {
+        "count": 14550,
+        "reduction": "T"
+    },
+    "\\psi": {
+        "count": 11208,
+        "reduction": "\\psi"
+    },
+    "\\operatorname": {
+        "count": 13118,
+        "reduction": "\\operatorname"
+    },
+    "\\textstyle": {
+        "count": 474,
+        "reduction": "\\textstyle"
+    },
+    "\\int": {
+        "count": 13907,
+        "reduction": "\\int"
+    },
+    "y": {
+        "count": 12182,
+        "reduction": "y"
+    },
+    "E": {
+        "count": 8696,
+        "reduction": "E"
+    },
+    "/": {
+        "count": 11195,
+        "reduction": "/"
+    },
+    "v": {
+        "count": 7477,
+        "reduction": "v"
+    },
+    "\\langle": {
+        "count": 3439,
+        "reduction": "\\langle"
+    },
+    "\\rangle": {
+        "count": 5503,
+        "reduction": "\\rangle"
+    },
+    "\\times": {
+        "count": 1468,
+        "reduction": "\\times"
+    },
+    "4": {
+        "count": 21934,
+        "reduction": "4"
+    },
+    "\\xi": {
+        "count": 7397,
+        "reduction": "\\xi"
+    },
+    "R": {
+        "count": 14078,
+        "reduction": "R"
+    },
+    "C": {
+        "count": 9344,
+        "reduction": "C"
+    },
+    "\\sim": {
+        "count": 1960,
+        "reduction": "\\sim"
+    },
+    "Q": {
+        "count": 7467,
+        "reduction": "Q"
+    },
+    "\\cdots": {
+        "count": 2621,
+        "reduction": "\\cdots"
+    },
+    "\\beta": {
+        "count": 14459,
+        "reduction": "\\beta"
+    },
+    "\\begin{array}": {
+        "count": 5805,
+        "reduction": "\\begin{array}"
+    },
+    "\\omega": {
+        "count": 8835,
+        "reduction": "\\omega"
+    },
+    "&": {
+        "count": 13358,
+        "reduction": "&"
+    },
+    "\\\\": {
+        "count": 12693,
+        "reduction": "\\\\"
+    },
+    "\\end{array}": {
+        "count": 5805,
+        "reduction": "\\end{array}"
+    },
+    "\\Omega": {
+        "count": 4973,
+        "reduction": "\\Omega"
+    },
+    "\\;": {
+        "count": 24358,
+        "reduction": "\\;"
+    },
+    "\\qquad": {
+        "count": 4568,
+        "reduction": "\\qquad"
+    },
+    "\\chi": {
+        "count": 4971,
+        "reduction": "\\chi"
+    },
+    "\\{": {
+        "count": 4347,
+        "reduction": "\\{"
+    },
+    "[": {
+        "count": 13982,
+        "reduction": "["
+    },
+    "]": {
+        "count": 14080,
+        "reduction": "]"
+    },
+    "\\}": {
+        "count": 4349,
+        "reduction": "\\}"
+    },
+    "K": {
+        "count": 6706,
+        "reduction": "K"
+    },
+    "\\dot": {
+        "count": 5907,
+        "reduction": "\\dot"
+    },
+    "X": {
+        "count": 8723,
+        "reduction": "X"
+    },
+    "\\pm": {
+        "count": 5867,
+        "reduction": "\\pm"
+    },
+    ";": {
+        "count": 4756,
+        "reduction": ";"
+    },
+    "W": {
+        "count": 5819,
+        "reduction": "W"
+    },
+    "\\Pi": {
+        "count": 1890,
+        "reduction": "\\Pi"
+    },
+    "\\ell": {
+        "count": 2293,
+        "reduction": "\\ell"
+    },
+    "\\varepsilon": {
+        "count": 2983,
+        "reduction": "\\varepsilon"
+    },
+    "\\overline": {
+        "count": 3527,
+        "reduction": "\\overline"
+    },
+    "\\:": {
+        "count": 2107,
+        "reduction": "\\:"
+    },
+    "|": {
+        "count": 16547,
+        "reduction": "|"
+    },
+    "\\infty": {
+        "count": 6441,
+        "reduction": "\\infty"
+    },
+    "\\vspace": {
+        "count": 60,
+        "reduction": "\\vspace"
+    },
+    "\\right.": {
+        "count": 938,
+        "reduction": "\\right ."
+    },
+    "\\equiv": {
+        "count": 4208,
+        "reduction": "\\equiv"
+    },
+    "\\scriptstyle": {
+        "count": 117,
+        "reduction": "\\scriptstyle"
+    },
+    "\\forall": {
+        "count": 280,
+        "reduction": "\\forall"
+    },
+    "\\in": {
+        "count": 1737,
+        "reduction": "\\in"
+    },
+    "\\varphi": {
+        "count": 5617,
+        "reduction": "\\varphi"
+    },
+    "\\Sigma": {
+        "count": 2599,
+        "reduction": "\\Sigma"
+    },
+    "M": {
+        "count": 13370,
+        "reduction": "M"
+    },
+    "\\tau": {
+        "count": 9599,
+        "reduction": "\\tau"
+    },
+    "\\Gamma": {
+        "count": 6755,
+        "reduction": "\\Gamma"
+    },
+    "\\epsilon": {
+        "count": 8617,
+        "reduction": "\\epsilon"
+    },
+    "\\zeta": {
+        "count": 3017,
+        "reduction": "\\zeta"
+    },
+    "\\hspace": {
+        "count": 1759,
+        "reduction": "\\hspace"
+    },
+    "\\sigma": {
+        "count": 12305,
+        "reduction": "\\sigma"
+    },
+    "!": {
+        "count": 1924,
+        "reduction": "!"
+    },
+    "\\bf": {
+        "count": 7844,
+        "reduction": "\\bf"
+    },
+    "\\Lambda": {
+        "count": 5875,
+        "reduction": "\\Lambda"
+    },
+    "9": {
+        "count": 1684,
+        "reduction": "9"
+    },
+    "Z": {
+        "count": 5626,
+        "reduction": "Z"
+    },
+    "<": {
+        "count": 2888,
+        "reduction": "<"
+    },
+    "\\vec": {
+        "count": 7220,
+        "reduction": "\\vec"
+    },
+    "I": {
+        "count": 8913,
+        "reduction": "I"
+    },
+    "\\mathop": {
+        "count": 30,
+        "reduction": "\\mathop"
+    },
+    "\\prod": {
+        "count": 1818,
+        "reduction": "\\prod"
+    },
+    "\\left.": {
+        "count": 722,
+        "reduction": "\\left ."
+    },
+    "\\nonumber": {
+        "count": 330,
+        "reduction": "\\nonumber"
+    },
+    "\\Delta": {
+        "count": 5525,
+        "reduction": "\\Delta"
+    },
+    "\\varpi": {
+        "count": 109,
+        "reduction": "\\varpi"
+    },
+    "\\small": {
+        "count": 111,
+        "reduction": "\\small"
+    },
+    "\\left|": {
+        "count": 1104,
+        "reduction": "\\left |"
+    },
+    "\\right|": {
+        "count": 1283,
+        "reduction": "\\right |"
+    },
+    "U": {
+        "count": 5994,
+        "reduction": "U"
+    },
+    "O": {
+        "count": 2875,
+        "reduction": "O"
+    },
+    "\\ddot": {
+        "count": 470,
+        "reduction": "\\ddot"
+    },
+    "\\nabla": {
+        "count": 2984,
+        "reduction": "\\nabla"
+    },
+    "\\tiny": {
+        "count": 144,
+        "reduction": "\\tiny"
+    },
+    "\\wedge": {
+        "count": 1983,
+        "reduction": "\\wedge"
+    },
+    "\\boldmath": {
+        "count": 462,
+        "reduction": "\\boldmath"
+    },
+    "\\mathcal": {
+        "count": 2515,
+        "reduction": "\\mathcal"
+    },
+    "\\Psi": {
+        "count": 4279,
+        "reduction": "\\Psi"
+    },
+    "\\hbar": {
+        "count": 1808,
+        "reduction": "\\hbar"
+    },
+    "\\rightarrow": {
+        "count": 3172,
+        "reduction": "\\rightarrow"
+    },
+    "\\it": {
+        "count": 202,
+        "reduction": "\\it"
+    },
+    "\\stackrel": {
+        "count": 961,
+        "reduction": "\\stackrel"
+    },
+    "\\leftrightarrow": {
+        "count": 221,
+        "reduction": "\\leftrightarrow"
+    },
+    "\\approx": {
+        "count": 1068,
+        "reduction": "\\approx"
+    },
+    "7": {
+        "count": 1919,
+        "reduction": "7"
+    },
+    "Y": {
+        "count": 2778,
+        "reduction": "Y"
+    },
+    "\\Big": {
+        "count": 1549,
+        "reduction": "\\Big"
+    },
+    "\\star": {
+        "count": 1000,
+        "reduction": "\\star"
+    },
+    "\\Bigg": {
+        "count": 201,
+        "reduction": "\\Bigg"
+    },
+    "\\vert": {
+        "count": 1638,
+        "reduction": "\\vert"
+    },
+    "\\underline": {
+        "count": 1292,
+        "reduction": "\\underline"
+    },
+    "\\cdot": {
+        "count": 4194,
+        "reduction": "\\cdot"
+    },
+    "\\widehat": {
+        "count": 967,
+        "reduction": "\\widehat"
+    },
+    "\\smallskip": {
+        "count": 15,
+        "reduction": "\\smallskip"
+    },
+    "\\slash": {
+        "count": 80,
+        "reduction": "\\slash"
+    },
+    "\\left\\langle": {
+        "count": 469,
+        "reduction": "\\left \\langle"
+    },
+    "\\right\\rangle": {
+        "count": 642,
+        "reduction": "\\right \\rangle"
+    },
+    "\\operatorname*": {
+        "count": 1817,
+        "reduction": "\\operatorname*"
+    },
+    "\\ldots": {
+        "count": 2455,
+        "reduction": "\\ldots"
+    },
+    "\\d": {
+        "count": 131,
+        "reduction": "\\d"
+    },
+    "\\longleftrightarrow": {
+        "count": 57,
+        "reduction": "\\longleftrightarrow"
+    },
+    "\\triangle": {
+        "count": 319,
+        "reduction": "\\triangle"
+    },
+    "\\vartheta": {
+        "count": 681,
+        "reduction": "\\vartheta"
+    },
+    "\\big": {
+        "count": 828,
+        "reduction": "\\big"
+    },
+    "\\displaystyle": {
+        "count": 978,
+        "reduction": "\\displaystyle"
+    },
+    "\\to": {
+        "count": 1492,
+        "reduction": "\\to"
+    },
+    "'": {
+        "count": 643,
+        "reduction": "'"
+    },
+    "\\dag": {
+        "count": 681,
+        "reduction": "\\dag"
+    },
+    "\\mapsto": {
+        "count": 199,
+        "reduction": "\\mapsto"
+    },
+    "\\Xi": {
+        "count": 393,
+        "reduction": "\\Xi"
+    },
+    "\\mid": {
+        "count": 1441,
+        "reduction": "\\mid"
+    },
+    "\\c": {
+        "count": 8,
+        "reduction": "\\c"
+    },
+    "\\mathbf": {
+        "count": 1288,
+        "reduction": "\\mathbf"
+    },
+    "\\dots": {
+        "count": 1139,
+        "reduction": "\\dots"
+    },
+    "\\otimes": {
+        "count": 1945,
+        "reduction": "\\otimes"
+    },
+    "\\footnotesize": {
+        "count": 53,
+        "reduction": "\\footnotesize"
+    },
+    "\\thinspace": {
+        "count": 22,
+        "reduction": "\\thinspace"
+    },
+    "\\oint": {
+        "count": 581,
+        "reduction": "\\oint"
+    },
+    "\\neq": {
+        "count": 629,
+        "reduction": "\\neq"
+    },
+    "\\varrho": {
+        "count": 289,
+        "reduction": "\\varrho"
+    },
+    "\\breve": {
+        "count": 128,
+        "reduction": "\\breve"
+    },
+    "\\ast": {
+        "count": 1201,
+        "reduction": "\\ast"
+    },
+    "\\binom": {
+        "count": 160,
+        "reduction": "\\binom"
+    },
+    "\\bigl": {
+        "count": 427,
+        "reduction": "\\bigl"
+    },
+    "\\bigr": {
+        "count": 424,
+        "reduction": "\\bigr"
+    },
+    "\\geq": {
+        "count": 691,
+        "reduction": "\\geq"
+    },
+    "\\biggl": {
+        "count": 539,
+        "reduction": "\\biggl"
+    },
+    "\\phantom": {
+        "count": 166,
+        "reduction": "\\phantom"
+    },
+    "\\scriptsize": {
+        "count": 179,
+        "reduction": "\\scriptsize"
+    },
+    "\\leq": {
+        "count": 1082,
+        "reduction": "\\leq"
+    },
+    "\\mp": {
+        "count": 702,
+        "reduction": "\\mp"
+    },
+    "\\left\\vert": {
+        "count": 47,
+        "reduction": "\\left \\vert"
+    },
+    "\\longrightarrow": {
+        "count": 573,
+        "reduction": "\\longrightarrow"
+    },
+    "\\tt": {
+        "count": 41,
+        "reduction": "\\tt"
+    },
+    "\\Bigl": {
+        "count": 655,
+        "reduction": "\\Bigl"
+    },
+    "\\Bigr": {
+        "count": 678,
+        "reduction": "\\Bigr"
+    },
+    "\\Theta": {
+        "count": 1489,
+        "reduction": "\\Theta"
+    },
+    "\\le": {
+        "count": 324,
+        "reduction": "\\le"
+    },
+    "\\propto": {
+        "count": 346,
+        "reduction": "\\propto"
+    },
+    "\\textrm": {
+        "count": 189,
+        "reduction": "\\textrm"
+    },
+    "--": {
+        "count": 266,
+        "reduction": "--"
+    },
+    "\\imath": {
+        "count": 255,
+        "reduction": "\\imath"
+    },
+    "\\jmath": {
+        "count": 143,
+        "reduction": "\\jmath"
+    },
+    "\\oplus": {
+        "count": 430,
+        "reduction": "\\oplus"
+    },
+    "\\subset": {
+        "count": 198,
+        "reduction": "\\subset"
+    },
+    "\\circ": {
+        "count": 628,
+        "reduction": "\\circ"
+    },
+    "\\bigg": {
+        "count": 554,
+        "reduction": "\\bigg"
+    },
+    "\\overleftarrow": {
+        "count": 33,
+        "reduction": "\\overleftarrow"
+    },
+    "\\overrightarrow": {
+        "count": 147,
+        "reduction": "\\overrightarrow"
+    },
+    "\\Rightarrow": {
+        "count": 205,
+        "reduction": "\\Rightarrow"
+    },
+    "\\perp": {
+        "count": 910,
+        "reduction": "\\perp"
+    },
+    "\\parallel": {
+        "count": 221,
+        "reduction": "\\parallel"
+    },
+    "\\Re": {
+        "count": 83,
+        "reduction": "\\Re"
+    },
+    "\\Upsilon": {
+        "count": 140,
+        "reduction": "\\Upsilon"
+    },
+    "\\wp": {
+        "count": 145,
+        "reduction": "\\wp"
+    },
+    "\\b": {
+        "count": 14,
+        "reduction": "\\b"
+    },
+    "\\biggr": {
+        "count": 537,
+        "reduction": "\\biggr"
+    },
+    "\\ge": {
+        "count": 291,
+        "reduction": "\\ge"
+    },
+    "\\bot": {
+        "count": 225,
+        "reduction": "\\bot"
+    },
+    "\\L": {
+        "count": 133,
+        "reduction": "\\L"
+    },
+    "\\rightharpoonup": {
+        "count": 48,
+        "reduction": "\\rightharpoonup"
+    },
+    "\\cong": {
+        "count": 133,
+        "reduction": "\\cong"
+    },
+    "\\hline": {
+        "count": 123,
+        "reduction": "\\hline"
+    },
+    "\\Longrightarrow": {
+        "count": 84,
+        "reduction": "\\Longrightarrow"
+    },
+    "\\lbrack": {
+        "count": 229,
+        "reduction": "\\lbrack"
+    },
+    "\\rbrack": {
+        "count": 96,
+        "reduction": "\\rbrack"
+    },
+    "\\rightleftharpoons": {
+        "count": 3,
+        "reduction": "\\rightleftharpoons"
+    },
+    "\\Im": {
+        "count": 95,
+        "reduction": "\\Im"
+    },
+    "\\varsigma": {
+        "count": 66,
+        "reduction": "\\varsigma"
+    },
+    "\\ll": {
+        "count": 151,
+        "reduction": "\\ll"
+    },
+    "\\left<": {
+        "count": 164,
+        "reduction": "\\left <"
+    },
+    "\\right>": {
+        "count": 258,
+        "reduction": "\\right >"
+    },
+    "\\mathbin": {
+        "count": 3,
+        "reduction": "\\mathbin"
+    },
+    "\\scriptscriptstyle": {
+        "count": 253,
+        "reduction": "\\scriptscriptstyle"
+    },
+    "\\mathit": {
+        "count": 27,
+        "reduction": "\\mathit"
+    },
+    "\\supset": {
+        "count": 80,
+        "reduction": "\\supset"
+    },
+    "\\raisebox": {
+        "count": 44,
+        "reduction": "\\raisebox"
+    },
+    "ule": {
+        "count": 34,
+        "reduction": "u l e"
+    },
+    "0.4": {
+        "count": 5,
+        "reduction": "0 . 4"
+    },
+    "pt": {
+        "count": 7,
+        "reduction": "p t"
+    },
+    "20": {
+        "count": 1,
+        "reduction": "2 0"
+    },
+    "\\label": {
+        "count": 31,
+        "reduction": "\\label"
+    },
+    "\\cap": {
+        "count": 98,
+        "reduction": "\\cap"
+    },
+    "\\backslash": {
+        "count": 30,
+        "reduction": "\\backslash"
+    },
+    "\\acute": {
+        "count": 78,
+        "reduction": "\\acute"
+    },
+    "\\vphantom": {
+        "count": 41,
+        "reduction": "\\vphantom"
+    },
+    "\\Leftrightarrow": {
+        "count": 65,
+        "reduction": "\\Leftrightarrow"
+    },
+    "\\textup": {
+        "count": 27,
+        "reduction": "\\textup"
+    },
+    "\\underbrace": {
+        "count": 81,
+        "reduction": "\\underbrace"
+    },
+    "`": {
+        "count": 47,
+        "reduction": "`"
+    },
+    "\\not": {
+        "count": 452,
+        "reduction": "\\not"
+    },
+    "\\vee": {
+        "count": 120,
+        "reduction": "\\vee"
+    },
+    "\\sf": {
+        "count": 147,
+        "reduction": "\\sf"
+    },
+    "\\lceil": {
+        "count": 4,
+        "reduction": "\\lceil"
+    },
+    "\\rfloor": {
+        "count": 26,
+        "reduction": "\\rfloor"
+    },
+    "\\left\\lfloor": {
+        "count": 2,
+        "reduction": "\\left \\lfloor"
+    },
+    "\\right\\rfloor": {
+        "count": 8,
+        "reduction": "\\right \\rfloor"
+    },
+    "\\check": {
+        "count": 325,
+        "reduction": "\\check"
+    },
+    "\\i": {
+        "count": 49,
+        "reduction": "\\i"
+    },
+    "\\mit": {
+        "count": 81,
+        "reduction": "\\mit"
+    },
+    "\\colon": {
+        "count": 22,
+        "reduction": "\\colon"
+    },
+    "\\bigoplus": {
+        "count": 115,
+        "reduction": "\\bigoplus"
+    },
+    "\\bullet": {
+        "count": 134,
+        "reduction": "\\bullet"
+    },
+    "\\ne": {
+        "count": 142,
+        "reduction": "\\ne"
+    },
+    "\\|": {
+        "count": 258,
+        "reduction": "\\|"
+    },
+    "\\Biggl": {
+        "count": 137,
+        "reduction": "\\Biggl"
+    },
+    "\\Biggr": {
+        "count": 146,
+        "reduction": "\\Biggr"
+    },
+    "\\gg": {
+        "count": 141,
+        "reduction": "\\gg"
+    },
+    "\\l": {
+        "count": 183,
+        "reduction": "\\l"
+    },
+    "\\right\\vert": {
+        "count": 53,
+        "reduction": "\\right \\vert"
+    },
+    "\\sb": {
+        "count": 102,
+        "reduction": "\\sb"
+    },
+    "\\Longleftrightarrow": {
+        "count": 47,
+        "reduction": "\\Longleftrightarrow"
+    },
+    "\\left\\lbrace": {
+        "count": 9,
+        "reduction": "\\left \\lbrace"
+    },
+    "\\right\\rbrace": {
+        "count": 9,
+        "reduction": "\\right \\rbrace"
+    },
+    "\\subseteq": {
+        "count": 29,
+        "reduction": "\\subseteq"
+    },
+    "\\do": {
+        "count": 4,
+        "reduction": "\\do"
+    },
+    "\\em": {
+        "count": 2,
+        "reduction": "\\em"
+    },
+    "\\atop": {
+        "count": 110,
+        "reduction": "\\atop"
+    },
+    "\\mathsf": {
+        "count": 77,
+        "reduction": "\\mathsf"
+    },
+    "\\large": {
+        "count": 33,
+        "reduction": "\\large"
+    },
+    "\\pmod": {
+        "count": 9,
+        "reduction": "\\pmod"
+    },
+    "\"": {
+        "count": 35,
+        "reduction": "\""
+    },
+    "\\vdots": {
+        "count": 136,
+        "reduction": "\\vdots"
+    },
+    "\\flat": {
+        "count": 28,
+        "reduction": "\\flat"
+    },
+    "\\lbrace": {
+        "count": 66,
+        "reduction": "\\lbrace"
+    },
+    "\\cup": {
+        "count": 90,
+        "reduction": "\\cup"
+    },
+    "\\raise": {
+        "count": 32,
+        "reduction": "\\raise"
+    },
+    "\\left\\|": {
+        "count": 43,
+        "reduction": "\\left \\|"
+    },
+    "\\right\\|": {
+        "count": 43,
+        "reduction": "\\right \\|"
+    },
+    "\\ni": {
+        "count": 21,
+        "reduction": "\\ni"
+    },
+    "\\o": {
+        "count": 121,
+        "reduction": "\\o"
+    },
+    "\\land": {
+        "count": 17,
+        "reduction": "\\land"
+    },
+    "\\kern": {
+        "count": 95,
+        "reduction": "\\kern"
+    },
+    "\\llap": {
+        "count": 30,
+        "reduction": "\\llap"
+    },
+    "\\relax": {
+        "count": 7,
+        "reduction": "\\relax"
+    },
+    "\\iota": {
+        "count": 212,
+        "reduction": "\\iota"
+    },
+    "\\rbrace": {
+        "count": 64,
+        "reduction": "\\rbrace"
+    },
+    "\\/": {
+        "count": 23,
+        "reduction": "\\/"
+    },
+    "\\protect": {
+        "count": 54,
+        "reduction": "\\protect"
+    },
+    "\\bigotimes": {
+        "count": 38,
+        "reduction": "\\bigotimes"
+    },
+    "\\odot": {
+        "count": 26,
+        "reduction": "\\odot"
+    },
+    "\\textbf": {
+        "count": 31,
+        "reduction": "\\textbf"
+    },
+    "\\textit": {
+        "count": 9,
+        "reduction": "\\textit"
+    },
+    "\\&": {
+        "count": 7,
+        "reduction": "\\&"
+    },
+    "\\vdash": {
+        "count": 6,
+        "reduction": "\\vdash"
+    },
+    "\\sharp": {
+        "count": 31,
+        "reduction": "\\sharp"
+    },
+    "\\enspace": {
+        "count": 45,
+        "reduction": "\\enspace"
+    },
+    "\\bmod": {
+        "count": 17,
+        "reduction": "\\bmod"
+    },
+    "\\mathaccent": {
+        "count": 1,
+        "reduction": "\\mathaccent"
+    },
+    "\\grave": {
+        "count": 3,
+        "reduction": "\\grave"
+    },
+    "\\downarrow": {
+        "count": 106,
+        "reduction": "\\downarrow"
+    },
+    "\\setlength": {
+        "count": 21,
+        "reduction": "\\setlength"
+    },
+    "\\unitlength": {
+        "count": 25,
+        "reduction": "\\unitlength"
+    },
+    "\\thicklines": {
+        "count": 7,
+        "reduction": "\\thicklines"
+    },
+    "\\put": {
+        "count": 94,
+        "reduction": "\\put"
+    },
+    "\\circle": {
+        "count": 31,
+        "reduction": "\\circle"
+    },
+    "\\emptyset": {
+        "count": 34,
+        "reduction": "\\emptyset"
+    },
+    "\\sl": {
+        "count": 34,
+        "reduction": "\\sl"
+    },
+    "\\fbox": {
+        "count": 25,
+        "reduction": "\\fbox"
+    },
+    "\\'": {
+        "count": 4,
+        "reduction": "\\'"
+    },
+    "\\uparrow": {
+        "count": 100,
+        "reduction": "\\uparrow"
+    },
+    "\\lefteqn": {
+        "count": 6,
+        "reduction": "\\lefteqn"
+    },
+    "\\O": {
+        "count": 57,
+        "reduction": "\\O"
+    },
+    "\\doteq": {
+        "count": 41,
+        "reduction": "\\doteq"
+    },
+    "\\upsilon": {
+        "count": 78,
+        "reduction": "\\upsilon"
+    },
+    "\\j": {
+        "count": 6,
+        "reduction": "\\j"
+    },
+    "\\ddots": {
+        "count": 49,
+        "reduction": "\\ddots"
+    },
+    "\\ref": {
+        "count": 31,
+        "reduction": "\\ref"
+    },
+    "\\S": {
+        "count": 59,
+        "reduction": "\\S"
+    },
+    "\\#": {
+        "count": 88,
+        "reduction": "\\#"
+    },
+    "\\Huge": {
+        "count": 4,
+        "reduction": "\\Huge"
+    },
+    "\\pounds": {
+        "count": 20,
+        "reduction": "\\pounds"
+    },
+    "\\setminus": {
+        "count": 10,
+        "reduction": "\\setminus"
+    },
+    "\\makebox": {
+        "count": 49,
+        "reduction": "\\makebox"
+    },
+    "\\longmapsto": {
+        "count": 24,
+        "reduction": "\\longmapsto"
+    },
+    "\\cdotp": {
+        "count": 39,
+        "reduction": "\\cdotp"
+    },
+    "\\-": {
+        "count": 11,
+        "reduction": "\\-"
+    },
+    "\\leftarrow": {
+        "count": 43,
+        "reduction": "\\leftarrow"
+    },
+    "0.9": {
+        "count": 1,
+        "reduction": "0 . 9"
+    },
+    "cm": {
+        "count": 24,
+        "reduction": "c m"
+    },
+    "\\Vert": {
+        "count": 48,
+        "reduction": "\\Vert"
+    },
+    "0.14": {
+        "count": 6,
+        "reduction": "0 . 1 4"
+    },
+    "mm": {
+        "count": 35,
+        "reduction": "m m"
+    },
+    "8.5": {
+        "count": 6,
+        "reduction": "8 . 5"
+    },
+    "\\succeq": {
+        "count": 2,
+        "reduction": "\\succeq"
+    },
+    "\\diamond": {
+        "count": 20,
+        "reduction": "\\diamond"
+    },
+    "\\space": {
+        "count": 11,
+        "reduction": "\\space"
+    },
+    "\\aleph": {
+        "count": 19,
+        "reduction": "\\aleph"
+    },
+    "\\buildrel": {
+        "count": 32,
+        "reduction": "\\buildrel"
+    },
+    "\\hfill": {
+        "count": 42,
+        "reduction": "\\hfill"
+    },
+    "[object": {
+        "count": 26,
+        "reduction": "[ o b j e c t"
+    },
+    "Object]": {
+        "count": 26,
+        "reduction": "o b j e c t ]"
+    },
+    "\\_": {
+        "count": 22,
+        "reduction": "\\_"
+    },
+    "\\Large": {
+        "count": 41,
+        "reduction": "\\Large"
+    },
+    "\\P": {
+        "count": 41,
+        "reduction": "\\P"
+    },
+    "\\bigtriangledown": {
+        "count": 16,
+        "reduction": "\\bigtriangledown"
+    },
+    "\\left/": {
+        "count": 1,
+        "reduction": "\\left /"
+    },
+    "\\bigcup": {
+        "count": 26,
+        "reduction": "\\bigcup"
+    },
+    "\\textsf": {
+        "count": 5,
+        "reduction": "\\textsf"
+    },
+    "\\diamondsuit": {
+        "count": 12,
+        "reduction": "\\diamondsuit"
+    },
+    "\\lfloor": {
+        "count": 14,
+        "reduction": "\\lfloor"
+    },
+    "\\overbrace": {
+        "count": 24,
+        "reduction": "\\overbrace"
+    },
+    "\\hphantom": {
+        "count": 7,
+        "reduction": "\\hphantom"
+    },
+    "\\^": {
+        "count": 1,
+        "reduction": "\\^"
+    },
+    "\\bigsqcup": {
+        "count": 3,
+        "reduction": "\\bigsqcup"
+    },
+    "\\left\\lbrack": {
+        "count": 14,
+        "reduction": "\\left \\lbrack"
+    },
+    "\\right\\rbrack": {
+        "count": 14,
+        "reduction": "\\right \\rbrack"
+    },
+    "\\mkern": {
+        "count": 6,
+        "reduction": "\\mkern"
+    },
+    "\\brack": {
+        "count": 1,
+        "reduction": "\\brack"
+    },
+    "\\textnormal": {
+        "count": 7,
+        "reduction": "\\textnormal"
+    },
+    "\\noalign": {
+        "count": 30,
+        "reduction": "\\noalign"
+    },
+    "\\vskip": {
+        "count": 13,
+        "reduction": "\\vskip"
+    },
+    "\\line": {
+        "count": 37,
+        "reduction": "\\line"
+    },
+    "\\framebox": {
+        "count": 6,
+        "reduction": "\\framebox"
+    },
+    "\\texttt": {
+        "count": 8,
+        "reduction": "\\texttt"
+    },
+    "\\bigcap": {
+        "count": 13,
+        "reduction": "\\bigcap"
+    },
+    "\\protecte": {
+        "count": 1,
+        "reduction": "\\protecte"
+    },
+    "?": {
+        "count": 14,
+        "reduction": "?"
+    },
+    "\\normalsize": {
+        "count": 7,
+        "reduction": "\\normalsize"
+    },
+    "1.7": {
+        "count": 1,
+        "reduction": "1 . 7"
+    },
+    "\\protectu": {
+        "count": 3,
+        "reduction": "\\protectu"
+    },
+    "\\asymp": {
+        "count": 4,
+        "reduction": "\\asymp"
+    },
+    "\\lower": {
+        "count": 11,
+        "reduction": "\\lower"
+    },
+    "\\hrule": {
+        "count": 12,
+        "reduction": "\\hrule"
+    },
+    "\\vrule": {
+        "count": 15,
+        "reduction": "\\vrule"
+    },
+    "\\supseteq": {
+        "count": 5,
+        "reduction": "\\supseteq"
+    },
+    "\\medskip": {
+        "count": 5,
+        "reduction": "\\medskip"
+    },
+    "---": {
+        "count": 9,
+        "reduction": "---"
+    },
+    "\\hookrightarrow": {
+        "count": 13,
+        "reduction": "\\hookrightarrow"
+    },
+    "\\bigwedge": {
+        "count": 20,
+        "reduction": "\\bigwedge"
+    },
+    "\\exists": {
+        "count": 7,
+        "reduction": "\\exists"
+    },
+    "\\natural": {
+        "count": 13,
+        "reduction": "\\natural"
+    },
+    "\\bigvee": {
+        "count": 1,
+        "reduction": "\\bigvee"
+    },
+    "\\smash": {
+        "count": 9,
+        "reduction": "\\smash"
+    },
+    "\\biggm": {
+        "count": 1,
+        "reduction": "\\biggm"
+    },
+    "\\oslash": {
+        "count": 3,
+        "reduction": "\\oslash"
+    },
+    "\\surd": {
+        "count": 8,
+        "reduction": "\\surd"
+    },
+    "\\longleftarrow": {
+        "count": 8,
+        "reduction": "\\longleftarrow"
+    },
+    "\\fill": {
+        "count": 1,
+        "reduction": "\\fill"
+    },
+    "\\strut": {
+        "count": 22,
+        "reduction": "\\strut"
+    },
+    "\\setcounter": {
+        "count": 3,
+        "reduction": "\\setcounter"
+    },
+    "\\renewcommand": {
+        "count": 7,
+        "reduction": "\\renewcommand"
+    },
+    "\\arraystretch": {
+        "count": 7,
+        "reduction": "\\arraystretch"
+    },
+    "\\smile": {
+        "count": 3,
+        "reduction": "\\smile"
+    },
+    "\\lq": {
+        "count": 2,
+        "reduction": "\\lq"
+    },
+    "\\ae": {
+        "count": 4,
+        "reduction": "\\ae"
+    },
+    "\\verb": {
+        "count": 2,
+        "reduction": "\\verb"
+    },
+    "\\unboldmath": {
+        "count": 5,
+        "reduction": "\\unboldmath"
+    },
+    "\\nolinebreak": {
+        "count": 2,
+        "reduction": "\\nolinebreak"
+    },
+    "\\sc": {
+        "count": 6,
+        "reduction": "\\sc"
+    },
+    "\\prec": {
+        "count": 4,
+        "reduction": "\\prec"
+    },
+    "\\LARGE": {
+        "count": 7,
+        "reduction": "\\LARGE"
+    },
+    "\\newcommand": {
+        "count": 1,
+        "reduction": "\\newcommand"
+    },
+    "\\m": {
+        "count": 5,
+        "reduction": "\\m"
+    },
+    "\\multicolumn": {
+        "count": 4,
+        "reduction": "\\multicolumn"
+    },
+    "#": {
+        "count": 1,
+        "reduction": "#"
+    },
+    "\\arraycolsep": {
+        "count": 3,
+        "reduction": "\\arraycolsep"
+    },
+    "\\protectZ": {
+        "count": 1,
+        "reduction": "\\protectZ"
+    },
+    "2.1": {
+        "count": 1,
+        "reduction": "2 . 1"
+    },
+    "\\ominus": {
+        "count": 20,
+        "reduction": "\\ominus"
+    },
+    "\\Biggm": {
+        "count": 5,
+        "reduction": "\\Biggm"
+    },
+    "\\rightarrowfill": {
+        "count": 2,
+        "reduction": "\\rightarrowfill"
+    },
+    "\\cite": {
+        "count": 5,
+        "reduction": "\\cite"
+    },
+    "\\vcenter": {
+        "count": 3,
+        "reduction": "\\vcenter"
+    },
+    "\\Bigm": {
+        "count": 3,
+        "reduction": "\\Bigm"
+    },
+    "\\ooalign": {
+        "count": 3,
+        "reduction": "\\ooalign"
+    },
+    "\\hfil": {
+        "count": 6,
+        "reduction": "\\hfil"
+    },
+    "\\crcr": {
+        "count": 3,
+        "reduction": "\\crcr"
+    },
+    "\\parbox": {
+        "count": 4,
+        "reduction": "\\parbox"
+    },
+    "\\nearrow": {
+        "count": 2,
+        "reduction": "\\nearrow"
+    },
+    "\\top": {
+        "count": 6,
+        "reduction": "\\top"
+    },
+    "10": {
+        "count": 1,
+        "reduction": "1 0"
+    },
+    "\\multiput": {
+        "count": 4,
+        "reduction": "\\multiput"
+    },
+    "\\SS": {
+        "count": 2,
+        "reduction": "\\SS"
+    },
+    "\\bigm": {
+        "count": 8,
+        "reduction": "\\bigm"
+    },
+    "\\rlap": {
+        "count": 13,
+        "reduction": "\\rlap"
+    },
+    "\\sqcup": {
+        "count": 7,
+        "reduction": "\\sqcup"
+    },
+    "\\Longleftarrow": {
+        "count": 4,
+        "reduction": "\\Longleftarrow"
+    },
+    "\\skew": {
+        "count": 3,
+        "reduction": "\\skew"
+    },
+    "\\ddagger": {
+        "count": 11,
+        "reduction": "\\ddagger"
+    },
+    "\\notin": {
+        "count": 3,
+        "reduction": "\\notin"
+    },
+    "\\protectE": {
+        "count": 1,
+        "reduction": "\\protectE"
+    },
+    "\\fboxsep": {
+        "count": 2,
+        "reduction": "\\fboxsep"
+    },
+    "\\triangleright": {
+        "count": 9,
+        "reduction": "\\triangleright"
+    },
+    "\\succ": {
+        "count": 1,
+        "reduction": "\\succ"
+    },
+    "\\ss": {
+        "count": 4,
+        "reduction": "\\ss"
+    },
+    "\\*": {
+        "count": 5,
+        "reduction": "\\*"
+    },
+    "0.5": {
+        "count": 3,
+        "reduction": "0 . 5"
+    },
+    "\\vline": {
+        "count": 11,
+        "reduction": "\\vline"
+    },
+    "\\mathord": {
+        "count": 2,
+        "reduction": "\\mathord"
+    },
+    "\\mathversion": {
+        "count": 2,
+        "reduction": "\\mathversion"
+    },
+    "\\protectm": {
+        "count": 1,
+        "reduction": "\\protectm"
+    },
+    "\\ddag": {
+        "count": 2,
+        "reduction": "\\ddag"
+    },
+    "\\null": {
+        "count": 5,
+        "reduction": "\\null"
+    },
+    "\\triangleleft": {
+        "count": 4,
+        "reduction": "\\triangleleft"
+    },
+    "\\ensuremath": {
+        "count": 4,
+        "reduction": "\\ensuremath"
+    },
+    "\\root": {
+        "count": 1,
+        "reduction": "\\root"
+    },
+    "\\of": {
+        "count": 1,
+        "reduction": "\\of"
+    },
+    "\\special": {
+        "count": 6,
+        "reduction": "\\special"
+    },
+    "\\enskip": {
+        "count": 17,
+        "reduction": "\\enskip"
+    },
+    "\\vector": {
+        "count": 4,
+        "reduction": "\\vector"
+    },
+    "\\lgroup": {
+        "count": 2,
+        "reduction": "\\lgroup"
+    },
+    "\\rgroup": {
+        "count": 2,
+        "reduction": "\\rgroup"
+    },
+    "\\arrowvert": {
+        "count": 2,
+        "reduction": "\\arrowvert"
+    },
+    "\\overwithdelims": {
+        "count": 1,
+        "reduction": "\\overwithdelims"
+    },
+    "\\AA": {
+        "count": 4,
+        "reduction": "\\AA"
+    },
+    "\\mathrel": {
+        "count": 4,
+        "reduction": "\\mathrel"
+    },
+    "\\sqcap": {
+        "count": 5,
+        "reduction": "\\sqcap"
+    },
+    "\\left]": {
+        "count": 1,
+        "reduction": "\\left ]"
+    },
+    "\\right[": {
+        "count": 1,
+        "reduction": "\\right ["
+    },
+    "\\amalg": {
+        "count": 4,
+        "reduction": "\\amalg"
+    },
+    "\\left\\lceil": {
+        "count": 1,
+        "reduction": "\\left \\lceil"
+    },
+    "\\right\\rceil": {
+        "count": 1,
+        "reduction": "\\right \\rceil"
+    },
+    "\\leavevmode": {
+        "count": 1,
+        "reduction": "\\leavevmode"
+    },
+    "\\mathstrut": {
+        "count": 1,
+        "reduction": "\\mathstrut"
+    },
+    "\\symbol": {
+        "count": 2,
+        "reduction": "\\symbol"
+    },
+    "0.1": {
+        "count": 5,
+        "reduction": "0 . 1"
+    },
+    "3.1": {
+        "count": 2,
+        "reduction": "3 . 1"
+    },
+    "3.2": {
+        "count": 2,
+        "reduction": "3 . 2"
+    },
+    "\\footnotemark": {
+        "count": 1,
+        "reduction": "\\footnotemark"
+    },
+    "\\mathopen": {
+        "count": 1,
+        "reduction": "\\mathopen"
+    },
+    "\\mathclose": {
+        "count": 1,
+        "reduction": "\\mathclose"
+    },
+    "\\nulldelimiterspace": {
+        "count": 2,
+        "reduction": "\\nulldelimiterspace"
+    },
+    "\\brace": {
+        "count": 1,
+        "reduction": "\\brace"
+    },
+    "\\Downarrow": {
+        "count": 2,
+        "reduction": "\\Downarrow"
+    },
+    "\\searrow": {
+        "count": 5,
+        "reduction": "\\searrow"
+    },
+    "\\smallint": {
+        "count": 3,
+        "reduction": "\\smallint"
+    },
+    "\\itshape": {
+        "count": 5,
+        "reduction": "\\itshape"
+    },
+    "\\mskip": {
+        "count": 2,
+        "reduction": "\\mskip"
+    },
+    "in": {
+        "count": 2,
+        "reduction": "i n"
+    },
+    "0.23": {
+        "count": 1,
+        "reduction": "0 . 2 3"
+    },
+    "\\atopwithdelims": {
+        "count": 2,
+        "reduction": "\\atopwithdelims"
+    },
+    "\\right/": {
+        "count": 7,
+        "reduction": "\\right /"
+    },
+    "\\vss": {
+        "count": 3,
+        "reduction": "\\vss"
+    },
+    "\\hss": {
+        "count": 2,
+        "reduction": "\\hss"
+    },
+    "\\cline": {
+        "count": 2,
+        "reduction": "\\cline"
+    },
+    "\\left\\Vert": {
+        "count": 1,
+        "reduction": "\\left \\Vert"
+    },
+    "\\right\\Vert": {
+        "count": 1,
+        "reduction": "\\right \\Vert"
+    },
+    "\\bigcirc": {
+        "count": 8,
+        "reduction": "\\bigcirc"
+    },
+    "\\linethickness": {
+        "count": 1,
+        "reduction": "\\linethickness"
+    },
+    "\\emph": {
+        "count": 1,
+        "reduction": "\\emph"
+    },
+    "@": {
+        "count": 2,
+        "reduction": "@"
+    },
+    "\\bigskip": {
+        "count": 3,
+        "reduction": "\\bigskip"
+    },
+    "\\oval": {
+        "count": 2,
+        "reduction": "\\oval"
+    },
+    "\\mathtt": {
+        "count": 3,
+        "reduction": "\\mathtt"
+    },
+    "\\textcircled": {
+        "count": 1,
+        "reduction": "\\textcircled"
+    },
+    "\\scshape": {
+        "count": 1,
+        "reduction": "\\scshape"
+    },
+    "\\uppercase": {
+        "count": 1,
+        "reduction": "\\uppercase"
+    },
+    "\\expandafter": {
+        "count": 1,
+        "reduction": "\\expandafter"
+    },
+    "\\romannumeral": {
+        "count": 1,
+        "reduction": "\\romannumeral"
+    },
+    "\\preceq": {
+        "count": 1,
+        "reduction": "\\preceq"
+    },
+    "\\]": {
+        "count": 1,
+        "reduction": "\\]"
+    },
+    "\\[": {
+        "count": 1,
+        "reduction": "\\["
+    },
+    "\\everymath": {
+        "count": 1,
+        "reduction": "\\everymath"
+    },
+    "\\tabcolsep": {
+        "count": 2,
+        "reduction": "\\tabcolsep"
+    },
+    "\\coprod": {
+        "count": 1,
+        "reduction": "\\coprod"
+    },
+    "\\\"": {
+        "count": 1,
+        "reduction": "\\\""
+    }
+}

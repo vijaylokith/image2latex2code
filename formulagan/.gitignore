@@ -1,0 +1,14 @@
+__pycache__/
+
+References/
+
+# Datasets
+# IM2LATEX Dataset
+Data/Datasets/IM2LATEX_100K/IM2LATEX_100K.zip
+Data/Datasets/IM2LATEX_100K/IM2LATEX_100K/formula_images_processed/
+
+# Models
+/Models/
+
+# Temp
+Data/Temp/
